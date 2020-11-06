@@ -1,0 +1,10 @@
+1. S'assurer que la connexion fonctionne (redirection vers l'accueil)
+2. Quand l'utilisateur est connecté :
+    - Ne pas afficher les liens vers Connexion et Inscription 
+    - Afficher son avatar et son pseudo dans la nav du haut
+    - Afficher un lien vers une nouvelle page "Déconnexion"
+3. Page Déconnexion :   
+    - Supprimer les données de session du user 
+    - Rediriger vers l'accueil
+4. Créer une nouvelle page pour créer un article, avec son form 
+    - S'assurer que l'utilisateur est bien connecté avant de lui afficher la page

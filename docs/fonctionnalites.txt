@@ -1,0 +1,14 @@
+créer un compte (avec un avatar)
+se connecter
+créer des articles (avec une image par article)
+commenter les articles
+"applaudir" les articles 
+catégoriser les articles
+
+users 
+posts
+comments
+posts_categories
+categories
+    id 
+    name
